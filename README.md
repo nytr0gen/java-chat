@@ -1,8 +1,5 @@
 # java_chat
 
-
-## Requirements
-
 chat (without GUI) 
 Clients op:
    - connect to server IP
